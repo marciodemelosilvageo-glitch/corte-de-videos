@@ -1,0 +1,6 @@
+{
+  "name": "Cortador de Vídeos de Notícias",
+  "description": "Automação de corte inteligente de vídeos longos de notícias com base em mudanças de cena (mínimo de 60 segundos por bloco).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
